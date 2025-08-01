@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/jojo96/my_travel_stories/static/css/main.ff9b1e9a.css",
+    "main.js": "/jojo96/my_travel_stories/static/js/main.9b34f95d.js",
+    "static/js/453.76d64904.chunk.js": "/jojo96/my_travel_stories/static/js/453.76d64904.chunk.js",
+    "index.html": "/jojo96/my_travel_stories/index.html",
+    "main.ff9b1e9a.css.map": "/jojo96/my_travel_stories/static/css/main.ff9b1e9a.css.map",
+    "main.9b34f95d.js.map": "/jojo96/my_travel_stories/static/js/main.9b34f95d.js.map",
+    "453.76d64904.chunk.js.map": "/jojo96/my_travel_stories/static/js/453.76d64904.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ff9b1e9a.css",
+    "static/js/main.9b34f95d.js"
+  ]
+}
